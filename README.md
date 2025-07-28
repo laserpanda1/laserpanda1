@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">I am a beginner Java developer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=2AA889&vCenter=true&width=500&height=60&lines=Hi+👋,+I'm+Nikita!" alt="Animated Name" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=7D3C98&vCenter=true&width=500&height=40&lines=Java+Developer;Spring+Enthusiast;Backend+Learner" alt="Animated Title" />
+</div>
 
 <div align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Spring+%E2%9D%A4%EF%B8%8F%2C+Hibernate+%F0%9F%94%8D%2C+SQL+%F0%9F%93%81" alt="Typing SVG" />
