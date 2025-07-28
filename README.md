@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">I am a beginner Java developer</h3>
 
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="20px"></td>
-      <td>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Spring+%E2%9D%A4%EF%B8%8F;Hibernate+%F0%9F%94%8D;SQL+%F0%9F%93%81;Java+%F0%9F%96%A5%EF%B8%8F" 
-             alt="Typing SVG">
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Spring+%E2%9D%A4%EF%B8%8F;Hibernate+%F0%9F%94%8D;SQL+%F0%9F%93%81;Java+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG">
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Spring, Hibernate**
 
