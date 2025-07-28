@@ -2,7 +2,7 @@
 <h3 align="center">I am a beginner Java developer</h3>
 
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Spring+%E2%9D%A4%EF%B8%8F%2C+Hibernate+%F0%9F%94%8D%2C+SQL+%F0%9F%93%81%2C" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Spring+%E2%9D%A4%EF%B8%8F%2C+Hibernate+%F0%9F%94%8D%2C+SQL+%F0%9F%93%81" alt="Typing SVG" />
  </div>
 
 - 🌱 I’m currently learning **Spring, Hibernate**
