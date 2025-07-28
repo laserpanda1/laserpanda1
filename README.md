@@ -2,7 +2,7 @@
 <h3 align="center">I am a beginner Java developer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=7D3C98&vCenter=true&width=500&height=40&lines=Java+Developer;Spring+Enthusiast;Backend+Learner" alt="Animated Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=7D3C98&vCenter=true&width=500&height=40&lines=Java+Developer,Spring+Enthusiast,Backend+Learner" alt="Animated Title" />
 </div>
 
 <div align="center">
