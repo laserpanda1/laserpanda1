@@ -22,7 +22,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laserpanda1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laserpanda1&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
